@@ -7,5 +7,5 @@ I'm not very interesting. I'm a (primarily PHP) programmer and Linux sysadmin in
 See also:
  * https://twitter.com/TheGingerDog (random crap)
  * https://codepoets.co.uk (blog)
- * https://www.palepurple.co.uk (my mostly dormant company)
+ * https://www.palepurple.co.uk (my, mostly dormant, company)
  * https://www.orlo.tech (employer, social media etc)
